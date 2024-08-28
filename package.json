@@ -1,5 +1,5 @@
 {
-  "name": "vue-component-generator",
+  "name": "vue-comp-forge",
   "version": "0.0.10",
   "main": "index.js",
   "type": "module",
