@@ -7,8 +7,9 @@
 Geração de Componentes: Crie componentes Vue.js com Composition API ou Options API.
 Suporte a TypeScript: Adiciona automaticamente lang="ts" ao script para TypeScript.
 Props Dinâmicas: Adicione props diretamente pelo terminal e a ferramenta cuida do resto!
-Templates Pré-definidos: Estruturas de componentes prontas para você começar a codar mais rápido.
-🛠️ Instalação
+Templates Pré-definidos: Estruturas de componentes prontas para você começar a codar mais rápido.  
+
+### 🛠️ Instalação
 
 Antes de começar, certifique-se de ter o Node.js instalado.
 
