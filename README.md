@@ -1,6 +1,6 @@
-### 🎨 Vue Component Generator CLI
+### 🎨 Vue Component Forge CLI
 
-Vue Component Generator is a powerful and intuitive CLI tool for creating Vue.js components with support for both Composition API and Options API. Simplify your development workflow with this fast and easy-to-use tool!
+Vue Component Forge is a powerful and intuitive CLI tool for creating Vue.js components with support for both Composition API and Options API. Simplify your development workflow with this fast and easy-to-use tool!
 ### ✨ Main Features
 
 Component Generation: Create Vue.js components with Composition API or Options API.
