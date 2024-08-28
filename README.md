@@ -1,34 +1,32 @@
 ### 🎨 Vue Component Generator CLI
 
-🚀 Vue Component Generator é uma ferramenta CLI poderosa e intuitiva para criar componentes Vue.js com suporte tanto para Composition API quanto para Options API. Simplifique seu fluxo de trabalho de desenvolvimento com essa ferramenta rápida e fácil de usar!
+Vue Component Generator is a powerful and intuitive CLI tool for creating Vue.js components with support for both Composition API and Options API. Simplify your development workflow with this fast and easy-to-use tool!
+### ✨ Main Features
 
-### ✨ Funcionalidades Principais
+Component Generation: Create Vue.js components with Composition API or Options API.
+TypeScript Support: Automatically adds lang="ts" to the script for TypeScript.
+Dynamic Props: Add props directly through the terminal and the tool takes care of the rest!
+Pre-defined Templates: Ready-made component structures for you to start coding faster.  
 
-Geração de Componentes: Crie componentes Vue.js com Composition API ou Options API.
-Suporte a TypeScript: Adiciona automaticamente lang="ts" ao script para TypeScript.
-Props Dinâmicas: Adicione props diretamente pelo terminal e a ferramenta cuida do resto!
-Templates Pré-definidos: Estruturas de componentes prontas para você começar a codar mais rápido.  
+### 🛠️ Installation
 
-### 🛠️ Instalação
-
-Antes de começar, certifique-se de ter o Node.js instalado.
-
+Before you begin, make sure you have Node.js installed.
 ```bash
 npm install -g vue-component-generator
 ```
-### 🚀 Como Usar
+### 🚀 How to Use
 
-Inicie o Gerador de Componentes
-Execute o comando abaixo no terminal:
+Start the Component Generator
+Run the command below in the terminal:
 
 ```bash
 create-vue-component
 ```
 
-| **Pergunta**            | **Descrição**                                            | **Exemplo**              |
+| **Question**            | **Description**                                            | **Example**              |
 |-------------------------|----------------------------------------------------------|--------------------------|
-| **Nome do Componente**  | Escolha um nome para o seu componente.                   | `MyAwesomeComponent`     |
-| **Diretório**           | Escolha o diretório onde deseja criar o componente.      | `./src/components`       |
-| **API do Vue**          | Escolha entre Composition API ou Options API.            | `Composition API`        |
-| **Props**               | Defina as props do seu componente no formato `propName:type`. | `id:number, title:string`|
+| **Component Name**  | Choose a name for your component.                  | `MyAwesomeComponent`     |
+| **Directory**           | Choose the directory where you want to create the component.      | `./src/components`       |
+| **Vue API**          | Choose between Composition API or Options API.            | `Composition API`        |
+| **Props**               | Define your component's props in the format `propName:type`. | `id:number, title:string`|
 

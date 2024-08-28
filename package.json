@@ -1,6 +1,6 @@
 {
   "name": "vue-component-generator",
-  "version": "1.0.0",
+  "version": "0.0.10",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   "description": "CLI tool to generate Vue components with Composition API or Options API",
   "keywords": ["vue", "cli", "component generator", "vue3"],
   "author": "Breno Gondim Rodrigues <breno_gondim@hotmail.com/>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "figlet": "^1.7.0",
