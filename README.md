@@ -30,3 +30,7 @@ create-vue-component
 | **Vue API**          | Choose between Composition API or Options API.            | `Composition API`        |
 | **Props**               | Define your component's props in the format `propName:type`. | `id:number, title:string`|
 
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
